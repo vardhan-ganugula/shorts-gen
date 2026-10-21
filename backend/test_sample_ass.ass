@@ -1,0 +1,19 @@
+[Script Info]
+Title: Klap Dynamic Dynamic Subtitles
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: KlapStyle,Arial,27,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,4,2,2,30,30,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.50,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}STOP 🛑{\c&H00FFFFFF\fscx100\fscy100} WASTING {\c&H0000FF00},000{\c&H00FFFFFF}
+Dialogue: 0,0:00:00.50,0:00:01.00,KlapStyle,,0,0,0,,{\c&H000033FF}STOP 🛑{\c&H00FFFFFF} {\c&H0000FFFF\fscx115\fscy115}WASTING{\c&H00FFFFFF\fscx100\fscy100} {\c&H0000FF00},000{\c&H00FFFFFF}
+Dialogue: 0,0:00:01.00,0:00:01.50,KlapStyle,,0,0,0,,{\c&H000033FF}STOP 🛑{\c&H00FFFFFF} WASTING {\c&H0000FFFF\fscx115\fscy115},000{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:01.50,0:00:02.00,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}ON{\c&H00FFFFFF\fscx100\fscy100} CRAZY 🤯 THINGS
+Dialogue: 0,0:00:02.00,0:00:02.50,KlapStyle,,0,0,0,,ON {\c&H0000FFFF\fscx115\fscy115}CRAZY 🤯{\c&H00FFFFFF\fscx100\fscy100} THINGS
+Dialogue: 0,0:00:02.50,0:00:03.00,KlapStyle,,0,0,0,,ON CRAZY 🤯 {\c&H0000FFFF\fscx115\fscy115}THINGS{\c&H00FFFFFF\fscx100\fscy100}

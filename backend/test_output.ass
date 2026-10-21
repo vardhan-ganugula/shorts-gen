@@ -1,0 +1,185 @@
+[Script Info]
+Title: Klap Dynamic Dynamic Subtitles
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: KlapStyle,Arial,27,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,4,2,2,30,30,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.18,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}THE{\c&H00FFFFFF\fscx100\fscy100} BEST SLEEP
+Dialogue: 0,0:00:00.18,0:00:00.66,KlapStyle,,0,0,0,,THE {\c&H0000FFFF\fscx115\fscy115}BEST{\c&H00FFFFFF\fscx100\fscy100} SLEEP
+Dialogue: 0,0:00:00.66,0:00:01.04,KlapStyle,,0,0,0,,THE BEST {\c&H0000FFFF\fscx115\fscy115}SLEEP{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:01.04,0:00:01.38,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}NEURAL{\c&H00FFFFFF\fscx100\fscy100} IMAGING LABS
+Dialogue: 0,0:00:01.38,0:00:01.72,KlapStyle,,0,0,0,,NEURAL {\c&H0000FFFF\fscx115\fscy115}IMAGING{\c&H00FFFFFF\fscx100\fscy100} LABS
+Dialogue: 0,0:00:01.72,0:00:02.00,KlapStyle,,0,0,0,,NEURAL IMAGING {\c&H0000FFFF\fscx115\fscy115}LABS{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:02.00,0:00:02.26,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}RIGHT{\c&H00FFFFFF\fscx100\fscy100} NOW ARE
+Dialogue: 0,0:00:02.26,0:00:02.48,KlapStyle,,0,0,0,,RIGHT {\c&H0000FFFF\fscx115\fscy115}NOW{\c&H00FFFFFF\fscx100\fscy100} ARE
+Dialogue: 0,0:00:02.48,0:00:02.72,KlapStyle,,0,0,0,,RIGHT NOW {\c&H0000FFFF\fscx115\fscy115}ARE{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:02.72,0:00:03.16,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}LOOKING{\c&H00FFFFFF\fscx100\fscy100} AT A
+Dialogue: 0,0:00:03.16,0:00:03.40,KlapStyle,,0,0,0,,LOOKING {\c&H0000FFFF\fscx115\fscy115}AT{\c&H00FFFFFF\fscx100\fscy100} A
+Dialogue: 0,0:00:03.40,0:00:03.56,KlapStyle,,0,0,0,,LOOKING AT {\c&H0000FFFF\fscx115\fscy115}A{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:03.56,0:00:03.92,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}HIDDEN 🤫{\c&H00FFFFFF\fscx100\fscy100} PERFORMANCE FRAMEWORK
+Dialogue: 0,0:00:03.92,0:00:04.66,KlapStyle,,0,0,0,,HIDDEN 🤫 {\c&H0000FFFF\fscx115\fscy115}PERFORMANCE{\c&H00FFFFFF\fscx100\fscy100} FRAMEWORK
+Dialogue: 0,0:00:04.66,0:00:05.00,KlapStyle,,0,0,0,,HIDDEN 🤫 PERFORMANCE {\c&H0000FFFF\fscx115\fscy115}FRAMEWORK{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:05.00,0:00:05.26,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}THAT{\c&H00FFFFFF\fscx100\fscy100} CHANGES HOW
+Dialogue: 0,0:00:05.26,0:00:05.64,KlapStyle,,0,0,0,,THAT {\c&H0000FFFF\fscx115\fscy115}CHANGES{\c&H00FFFFFF\fscx100\fscy100} HOW
+Dialogue: 0,0:00:05.64,0:00:06.28,KlapStyle,,0,0,0,,THAT CHANGES {\c&H0000FFFF\fscx115\fscy115}HOW{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:06.28,0:00:06.48,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}WE{\c&H00FFFFFF\fscx100\fscy100} LOOK AT
+Dialogue: 0,0:00:06.48,0:00:06.70,KlapStyle,,0,0,0,,WE {\c&H0000FFFF\fscx115\fscy115}LOOK{\c&H00FFFFFF\fscx100\fscy100} AT
+Dialogue: 0,0:00:06.70,0:00:07.02,KlapStyle,,0,0,0,,WE LOOK {\c&H0000FFFF\fscx115\fscy115}AT{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:07.02,0:00:07.44,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}NIGHTTIME{\c&H00FFFFFF\fscx100\fscy100} EXHAUSTION COMPLETELY.
+Dialogue: 0,0:00:07.44,0:00:08.10,KlapStyle,,0,0,0,,NIGHTTIME {\c&H0000FFFF\fscx115\fscy115}EXHAUSTION{\c&H00FFFFFF\fscx100\fscy100} COMPLETELY.
+Dialogue: 0,0:00:08.10,0:00:08.76,KlapStyle,,0,0,0,,NIGHTTIME EXHAUSTION {\c&H0000FFFF\fscx115\fscy115}COMPLETELY.{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:09.16,0:00:09.40,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}WORLD{\c&H00FFFFFF\fscx100\fscy100} -RENOWNED SLEEP
+Dialogue: 0,0:00:09.40,0:00:09.70,KlapStyle,,0,0,0,,WORLD {\c&H0000FFFF\fscx115\fscy115}-RENOWNED{\c&H00FFFFFF\fscx100\fscy100} SLEEP
+Dialogue: 0,0:00:09.70,0:00:09.94,KlapStyle,,0,0,0,,WORLD -RENOWNED {\c&H0000FFFF\fscx115\fscy115}SLEEP{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:09.94,0:00:10.40,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}SCIENTIST{\c&H00FFFFFF\fscx100\fscy100} DR. ELLS
+Dialogue: 0,0:00:10.40,0:00:10.78,KlapStyle,,0,0,0,,SCIENTIST {\c&H0000FFFF\fscx115\fscy115}DR.{\c&H00FFFFFF\fscx100\fscy100} ELLS
+Dialogue: 0,0:00:11.02,0:00:11.42,KlapStyle,,0,0,0,,SCIENTIST DR. {\c&H0000FFFF\fscx115\fscy115}ELLS{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:11.42,0:00:11.66,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}VAN{\c&H00FFFFFF\fscx100\fscy100} DER HELM,
+Dialogue: 0,0:00:11.66,0:00:11.84,KlapStyle,,0,0,0,,VAN {\c&H0000FFFF\fscx115\fscy115}DER{\c&H00FFFFFF\fscx100\fscy100} HELM,
+Dialogue: 0,0:00:11.84,0:00:12.18,KlapStyle,,0,0,0,,VAN DER {\c&H0000FFFF\fscx115\fscy115}HELM,{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:12.26,0:00:12.32,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}WHO{\c&H00FFFFFF\fscx100\fscy100} IS ALSO
+Dialogue: 0,0:00:12.32,0:00:12.44,KlapStyle,,0,0,0,,WHO {\c&H0000FFFF\fscx115\fscy115}IS{\c&H00FFFFFF\fscx100\fscy100} ALSO
+Dialogue: 0,0:00:12.44,0:00:12.84,KlapStyle,,0,0,0,,WHO IS {\c&H0000FFFF\fscx115\fscy115}ALSO{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:12.84,0:00:13.16,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}A{\c&H00FFFFFF\fscx100\fscy100} VERY DEAR
+Dialogue: 0,0:00:13.16,0:00:13.44,KlapStyle,,0,0,0,,A {\c&H0000FFFF\fscx115\fscy115}VERY{\c&H00FFFFFF\fscx100\fscy100} DEAR
+Dialogue: 0,0:00:13.44,0:00:13.60,KlapStyle,,0,0,0,,A VERY {\c&H0000FFFF\fscx115\fscy115}DEAR{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:13.60,0:00:13.82,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}FRIEND{\c&H00FFFFFF\fscx100\fscy100} OF MINE
+Dialogue: 0,0:00:13.82,0:00:13.96,KlapStyle,,0,0,0,,FRIEND {\c&H0000FFFF\fscx115\fscy115}OF{\c&H00FFFFFF\fscx100\fscy100} MINE
+Dialogue: 0,0:00:13.96,0:00:14.14,KlapStyle,,0,0,0,,FRIEND OF {\c&H0000FFFF\fscx115\fscy115}MINE{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:14.14,0:00:14.30,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}FROM{\c&H00FFFFFF\fscx100\fscy100} GRADUATE SCHOOL,
+Dialogue: 0,0:00:14.30,0:00:14.60,KlapStyle,,0,0,0,,FROM {\c&H0000FFFF\fscx115\fscy115}GRADUATE{\c&H00FFFFFF\fscx100\fscy100} SCHOOL,
+Dialogue: 0,0:00:14.60,0:00:15.02,KlapStyle,,0,0,0,,FROM GRADUATE {\c&H0000FFFF\fscx115\fscy115}SCHOOL,{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:15.36,0:00:15.48,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}JUST{\c&H00FFFFFF\fscx100\fscy100} PUBLISHED HER
+Dialogue: 0,0:00:15.48,0:00:15.84,KlapStyle,,0,0,0,,JUST {\c&H0000FFFF\fscx115\fscy115}PUBLISHED{\c&H00FFFFFF\fscx100\fscy100} HER
+Dialogue: 0,0:00:15.84,0:00:16.06,KlapStyle,,0,0,0,,JUST PUBLISHED {\c&H0000FFFF\fscx115\fscy115}HER{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:16.06,0:00:16.22,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BOOK{\c&H00FFFFFF\fscx100\fscy100} SLEEP INTELLIGENCE
+Dialogue: 0,0:00:16.22,0:00:16.58,KlapStyle,,0,0,0,,BOOK {\c&H0000FFFF\fscx115\fscy115}SLEEP{\c&H00FFFFFF\fscx100\fscy100} INTELLIGENCE
+Dialogue: 0,0:00:16.58,0:00:17.32,KlapStyle,,0,0,0,,BOOK SLEEP {\c&H0000FFFF\fscx115\fscy115}INTELLIGENCE{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:17.32,0:00:17.66,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}AND{\c&H00FFFFFF\fscx100\fscy100} RESEARCHES WHAT
+Dialogue: 0,0:00:17.66,0:00:18.54,KlapStyle,,0,0,0,,AND {\c&H0000FFFF\fscx115\fscy115}RESEARCHES{\c&H00FFFFFF\fscx100\fscy100} WHAT
+Dialogue: 0,0:00:18.54,0:00:19.04,KlapStyle,,0,0,0,,AND RESEARCHES {\c&H0000FFFF\fscx115\fscy115}WHAT{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:19.04,0:00:19.40,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}DEEP{\c&H00FFFFFF\fscx100\fscy100} SLEEP ACTUALLY
+Dialogue: 0,0:00:19.40,0:00:19.84,KlapStyle,,0,0,0,,DEEP {\c&H0000FFFF\fscx115\fscy115}SLEEP{\c&H00FFFFFF\fscx100\fscy100} ACTUALLY
+Dialogue: 0,0:00:19.84,0:00:20.38,KlapStyle,,0,0,0,,DEEP SLEEP {\c&H0000FFFF\fscx115\fscy115}ACTUALLY{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:20.38,0:00:20.70,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}DOES{\c&H00FFFFFF\fscx100\fscy100} FOR YOUR
+Dialogue: 0,0:00:20.70,0:00:21.06,KlapStyle,,0,0,0,,DOES {\c&H0000FFFF\fscx115\fscy115}FOR{\c&H00FFFFFF\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:21.06,0:00:21.18,KlapStyle,,0,0,0,,DOES FOR {\c&H0000FFFF\fscx115\fscy115}YOUR{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:21.18,0:00:21.46,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BRAIN{\c&H00FFFFFF\fscx100\fscy100} AND WHAT
+Dialogue: 0,0:00:21.46,0:00:21.96,KlapStyle,,0,0,0,,BRAIN {\c&H0000FFFF\fscx115\fscy115}AND{\c&H00FFFFFF\fscx100\fscy100} WHAT
+Dialogue: 0,0:00:21.96,0:00:22.10,KlapStyle,,0,0,0,,BRAIN AND {\c&H0000FFFF\fscx115\fscy115}WHAT{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:22.10,0:00:22.54,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}HAPPENS{\c&H00FFFFFF\fscx100\fscy100} WHEN YOU
+Dialogue: 0,0:00:22.54,0:00:23.02,KlapStyle,,0,0,0,,HAPPENS {\c&H0000FFFF\fscx115\fscy115}WHEN{\c&H00FFFFFF\fscx100\fscy100} YOU
+Dialogue: 0,0:00:23.02,0:00:23.14,KlapStyle,,0,0,0,,HAPPENS WHEN {\c&H0000FFFF\fscx115\fscy115}YOU{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:23.12,0:00:23.64,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}CONSISTENTLY{\c&H00FFFFFF\fscx100\fscy100} MISS IT.
+Dialogue: 0,0:00:23.64,0:00:23.96,KlapStyle,,0,0,0,,CONSISTENTLY {\c&H0000FFFF\fscx115\fscy115}MISS{\c&H00FFFFFF\fscx100\fscy100} IT.
+Dialogue: 0,0:00:23.96,0:00:24.20,KlapStyle,,0,0,0,,CONSISTENTLY MISS {\c&H0000FFFF\fscx115\fscy115}IT.{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:24.68,0:00:24.94,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}HER{\c&H00FFFFFF\fscx100\fscy100} WORK FOUND
+Dialogue: 0,0:00:24.94,0:00:25.26,KlapStyle,,0,0,0,,HER {\c&H0000FFFF\fscx115\fscy115}WORK{\c&H00FFFFFF\fscx100\fscy100} FOUND
+Dialogue: 0,0:00:25.26,0:00:25.56,KlapStyle,,0,0,0,,HER WORK {\c&H0000FFFF\fscx115\fscy115}FOUND{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:25.56,0:00:25.76,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}THAT{\c&H00FFFFFF\fscx100\fscy100} DEEP SLEEP
+Dialogue: 0,0:00:25.76,0:00:26.06,KlapStyle,,0,0,0,,THAT {\c&H0000FFFF\fscx115\fscy115}DEEP{\c&H00FFFFFF\fscx100\fscy100} SLEEP
+Dialogue: 0,0:00:26.06,0:00:26.52,KlapStyle,,0,0,0,,THAT DEEP {\c&H0000FFFF\fscx115\fscy115}SLEEP{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:26.52,0:00:26.84,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}IS{\c&H00FFFFFF\fscx100\fscy100} WHEN YOUR
+Dialogue: 0,0:00:26.84,0:00:27.06,KlapStyle,,0,0,0,,IS {\c&H0000FFFF\fscx115\fscy115}WHEN{\c&H00FFFFFF\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:27.06,0:00:27.26,KlapStyle,,0,0,0,,IS WHEN {\c&H0000FFFF\fscx115\fscy115}YOUR{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:27.26,0:00:27.54,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BRAIN{\c&H00FFFFFF\fscx100\fscy100} PROCESSES THE
+Dialogue: 0,0:00:27.54,0:00:28.12,KlapStyle,,0,0,0,,BRAIN {\c&H0000FFFF\fscx115\fscy115}PROCESSES{\c&H00FFFFFF\fscx100\fscy100} THE
+Dialogue: 0,0:00:28.12,0:00:28.44,KlapStyle,,0,0,0,,BRAIN PROCESSES {\c&H0000FFFF\fscx115\fscy115}THE{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:28.44,0:00:29.06,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}EMOTIONAL{\c&H00FFFFFF\fscx100\fscy100} LOAD OF
+Dialogue: 0,0:00:29.06,0:00:29.60,KlapStyle,,0,0,0,,EMOTIONAL {\c&H0000FFFF\fscx115\fscy115}LOAD{\c&H00FFFFFF\fscx100\fscy100} OF
+Dialogue: 0,0:00:29.60,0:00:30.00,KlapStyle,,0,0,0,,EMOTIONAL LOAD {\c&H0000FFFF\fscx115\fscy115}OF{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:30.00,0:00:30.16,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}YOUR{\c&H00FFFFFF\fscx100\fscy100} ENTIRE DAY.
+Dialogue: 0,0:00:30.16,0:00:30.50,KlapStyle,,0,0,0,,YOUR {\c&H0000FFFF\fscx115\fscy115}ENTIRE{\c&H00FFFFFF\fscx100\fscy100} DAY.
+Dialogue: 0,0:00:30.50,0:00:30.98,KlapStyle,,0,0,0,,YOUR ENTIRE {\c&H0000FFFF\fscx115\fscy115}DAY.{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:31.36,0:00:31.58,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}WHEN{\c&H00FFFFFF\fscx100\fscy100} YOU CUT
+Dialogue: 0,0:00:31.58,0:00:31.72,KlapStyle,,0,0,0,,WHEN {\c&H0000FFFF\fscx115\fscy115}YOU{\c&H00FFFFFF\fscx100\fscy100} CUT
+Dialogue: 0,0:00:31.72,0:00:32.00,KlapStyle,,0,0,0,,WHEN YOU {\c&H0000FFFF\fscx115\fscy115}CUT{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:32.00,0:00:32.18,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}THAT{\c&H00FFFFFF\fscx100\fscy100} WINDOW SHORT,
+Dialogue: 0,0:00:32.18,0:00:32.42,KlapStyle,,0,0,0,,THAT {\c&H0000FFFF\fscx115\fscy115}WINDOW{\c&H00FFFFFF\fscx100\fscy100} SHORT,
+Dialogue: 0,0:00:32.42,0:00:32.92,KlapStyle,,0,0,0,,THAT WINDOW {\c&H0000FFFF\fscx115\fscy115}SHORT,{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:33.14,0:00:33.86,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}EVERYDAY{\c&H00FFFFFF\fscx100\fscy100} FRUSTRATION START
+Dialogue: 0,0:00:33.86,0:00:34.58,KlapStyle,,0,0,0,,EVERYDAY {\c&H0000FFFF\fscx115\fscy115}FRUSTRATION{\c&H00FFFFFF\fscx100\fscy100} START
+Dialogue: 0,0:00:34.58,0:00:34.92,KlapStyle,,0,0,0,,EVERYDAY FRUSTRATION {\c&H0000FFFF\fscx115\fscy115}START{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:34.92,0:00:35.14,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}TO{\c&H00FFFFFF\fscx100\fscy100} FEEL COMPLETELY
+Dialogue: 0,0:00:35.14,0:00:35.38,KlapStyle,,0,0,0,,TO {\c&H0000FFFF\fscx115\fscy115}FEEL{\c&H00FFFFFF\fscx100\fscy100} COMPLETELY
+Dialogue: 0,0:00:35.38,0:00:36.04,KlapStyle,,0,0,0,,TO FEEL {\c&H0000FFFF\fscx115\fscy115}COMPLETELY{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:36.04,0:00:36.94,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}OVERWHELMING.{\c&H00FFFFFF\fscx100\fscy100} AND THIS
+Dialogue: 0,0:00:37.56,0:00:37.80,KlapStyle,,0,0,0,,OVERWHELMING. {\c&H0000FFFF\fscx115\fscy115}AND{\c&H00FFFFFF\fscx100\fscy100} THIS
+Dialogue: 0,0:00:37.80,0:00:37.94,KlapStyle,,0,0,0,,OVERWHELMING. AND {\c&H0000FFFF\fscx115\fscy115}THIS{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:37.94,0:00:38.10,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}IS{\c&H00FFFFFF\fscx100\fscy100} EXACTLY WHY
+Dialogue: 0,0:00:38.10,0:00:38.56,KlapStyle,,0,0,0,,IS {\c&H0000FFFF\fscx115\fscy115}EXACTLY{\c&H00FFFFFF\fscx100\fscy100} WHY
+Dialogue: 0,0:00:38.56,0:00:39.02,KlapStyle,,0,0,0,,IS EXACTLY {\c&H0000FFFF\fscx115\fscy115}WHY{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:39.02,0:00:39.28,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}YOU{\c&H00FFFFFF\fscx100\fscy100} CANNOT FIX
+Dialogue: 0,0:00:39.28,0:00:39.60,KlapStyle,,0,0,0,,YOU {\c&H0000FFFF\fscx115\fscy115}CANNOT{\c&H00FFFFFF\fscx100\fscy100} FIX
+Dialogue: 0,0:00:39.60,0:00:39.94,KlapStyle,,0,0,0,,YOU CANNOT {\c&H0000FFFF\fscx115\fscy115}FIX{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:39.94,0:00:40.60,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}SEVERE{\c&H00FFFFFF\fscx100\fscy100} EXHAUSTION WITH
+Dialogue: 0,0:00:40.60,0:00:41.36,KlapStyle,,0,0,0,,SEVERE {\c&H0000FFFF\fscx115\fscy115}EXHAUSTION{\c&H00FFFFFF\fscx100\fscy100} WITH
+Dialogue: 0,0:00:41.36,0:00:42.06,KlapStyle,,0,0,0,,SEVERE EXHAUSTION {\c&H0000FFFF\fscx115\fscy115}WITH{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:42.06,0:00:42.34,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}SHEER{\c&H00FFFFFF\fscx100\fscy100} WILLPOWER OR
+Dialogue: 0,0:00:42.34,0:00:43.00,KlapStyle,,0,0,0,,SHEER {\c&H0000FFFF\fscx115\fscy115}WILLPOWER{\c&H00FFFFFF\fscx100\fscy100} OR
+Dialogue: 0,0:00:43.00,0:00:43.44,KlapStyle,,0,0,0,,SHEER WILLPOWER {\c&H0000FFFF\fscx115\fscy115}OR{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:43.44,0:00:43.60,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BY{\c&H00FFFFFF\fscx100\fscy100} FORCING YOUR
+Dialogue: 0,0:00:43.60,0:00:44.06,KlapStyle,,0,0,0,,BY {\c&H0000FFFF\fscx115\fscy115}FORCING{\c&H00FFFFFF\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:44.06,0:00:44.26,KlapStyle,,0,0,0,,BY FORCING {\c&H0000FFFF\fscx115\fscy115}YOUR{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:44.26,0:00:44.46,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BODY{\c&H00FFFFFF\fscx100\fscy100} TO FOLLOW
+Dialogue: 0,0:00:44.46,0:00:44.64,KlapStyle,,0,0,0,,BODY {\c&H0000FFFF\fscx115\fscy115}TO{\c&H00FFFFFF\fscx100\fscy100} FOLLOW
+Dialogue: 0,0:00:44.64,0:00:44.86,KlapStyle,,0,0,0,,BODY TO {\c&H0000FFFF\fscx115\fscy115}FOLLOW{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:44.86,0:00:45.12,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}SOME{\c&H00FFFFFF\fscx100\fscy100} RIDICULOUS GENERIC
+Dialogue: 0,0:00:45.12,0:00:45.52,KlapStyle,,0,0,0,,SOME {\c&H0000FFFF\fscx115\fscy115}RIDICULOUS{\c&H00FFFFFF\fscx100\fscy100} GENERIC
+Dialogue: 0,0:00:45.52,0:00:46.18,KlapStyle,,0,0,0,,SOME RIDICULOUS {\c&H0000FFFF\fscx115\fscy115}GENERIC{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:46.18,0:00:46.54,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}MORNING{\c&H00FFFFFF\fscx100\fscy100} ROUTINE MADE
+Dialogue: 0,0:00:46.54,0:00:46.92,KlapStyle,,0,0,0,,MORNING {\c&H0000FFFF\fscx115\fscy115}ROUTINE{\c&H00FFFFFF\fscx100\fscy100} MADE
+Dialogue: 0,0:00:46.92,0:00:47.34,KlapStyle,,0,0,0,,MORNING ROUTINE {\c&H0000FFFF\fscx115\fscy115}MADE{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:47.34,0:00:47.52,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BY{\c&H00FFFFFF\fscx100\fscy100} SOME INFLUENCER.
+Dialogue: 0,0:00:47.52,0:00:47.70,KlapStyle,,0,0,0,,BY {\c&H0000FFFF\fscx115\fscy115}SOME{\c&H00FFFFFF\fscx100\fscy100} INFLUENCER.
+Dialogue: 0,0:00:47.70,0:00:48.18,KlapStyle,,0,0,0,,BY SOME {\c&H0000FFFF\fscx115\fscy115}INFLUENCER.{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:48.42,0:00:48.54,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}YOU{\c&H00FFFFFF\fscx100\fscy100} NEED TO
+Dialogue: 0,0:00:48.54,0:00:48.70,KlapStyle,,0,0,0,,YOU {\c&H0000FFFF\fscx115\fscy115}NEED{\c&H00FFFFFF\fscx100\fscy100} TO
+Dialogue: 0,0:00:48.70,0:00:48.86,KlapStyle,,0,0,0,,YOU NEED {\c&H0000FFFF\fscx115\fscy115}TO{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:48.86,0:00:49.32,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}ACTUALLY{\c&H00FFFFFF\fscx100\fscy100} ALLOW YOUR
+Dialogue: 0,0:00:49.32,0:00:49.80,KlapStyle,,0,0,0,,ACTUALLY {\c&H0000FFFF\fscx115\fscy115}ALLOW{\c&H00FFFFFF\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:49.80,0:00:50.16,KlapStyle,,0,0,0,,ACTUALLY ALLOW {\c&H0000FFFF\fscx115\fscy115}YOUR{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:50.16,0:00:50.48,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BRAIN{\c&H00FFFFFF\fscx100\fscy100} TO HEAL
+Dialogue: 0,0:00:50.48,0:00:51.06,KlapStyle,,0,0,0,,BRAIN {\c&H0000FFFF\fscx115\fscy115}TO{\c&H00FFFFFF\fscx100\fscy100} HEAL
+Dialogue: 0,0:00:51.06,0:00:51.54,KlapStyle,,0,0,0,,BRAIN TO {\c&H0000FFFF\fscx115\fscy115}HEAL{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:51.54,0:00:51.92,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}ITSELF{\c&H00FFFFFF\fscx100\fscy100} THROUGH ITS
+Dialogue: 0,0:00:51.92,0:00:52.24,KlapStyle,,0,0,0,,ITSELF {\c&H0000FFFF\fscx115\fscy115}THROUGH{\c&H00FFFFFF\fscx100\fscy100} ITS
+Dialogue: 0,0:00:52.24,0:00:52.40,KlapStyle,,0,0,0,,ITSELF THROUGH {\c&H0000FFFF\fscx115\fscy115}ITS{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:52.40,0:00:52.68,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}OWN{\c&H00FFFFFF\fscx100\fscy100} NATURAL METHODS
+Dialogue: 0,0:00:52.68,0:00:53.40,KlapStyle,,0,0,0,,OWN {\c&H0000FFFF\fscx115\fscy115}NATURAL{\c&H00FFFFFF\fscx100\fscy100} METHODS
+Dialogue: 0,0:00:53.40,0:00:53.98,KlapStyle,,0,0,0,,OWN NATURAL {\c&H0000FFFF\fscx115\fscy115}METHODS{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:53.98,0:00:54.36,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}WHILE{\c&H00FFFFFF\fscx100\fscy100} YOU SLEEP.
+Dialogue: 0,0:00:54.36,0:00:54.56,KlapStyle,,0,0,0,,WHILE {\c&H0000FFFF\fscx115\fscy115}YOU{\c&H00FFFFFF\fscx100\fscy100} SLEEP.
+Dialogue: 0,0:00:54.56,0:00:54.88,KlapStyle,,0,0,0,,WHILE YOU {\c&H0000FFFF\fscx115\fscy115}SLEEP.{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:55.36,0:00:55.52,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}TRUE{\c&H00FFFFFF\fscx100\fscy100} RECOVERY STARTS
+Dialogue: 0,0:00:55.52,0:00:56.06,KlapStyle,,0,0,0,,TRUE {\c&H0000FFFF\fscx115\fscy115}RECOVERY{\c&H00FFFFFF\fscx100\fscy100} STARTS
+Dialogue: 0,0:00:56.06,0:00:56.40,KlapStyle,,0,0,0,,TRUE RECOVERY {\c&H0000FFFF\fscx115\fscy115}STARTS{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:56.40,0:00:56.68,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}WITH{\c&H00FFFFFF\fscx100\fscy100} IDENTIFYING YOUR
+Dialogue: 0,0:00:56.68,0:00:57.46,KlapStyle,,0,0,0,,WITH {\c&H0000FFFF\fscx115\fscy115}IDENTIFYING{\c&H00FFFFFF\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:57.46,0:00:58.02,KlapStyle,,0,0,0,,WITH IDENTIFYING {\c&H0000FFFF\fscx115\fscy115}YOUR{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:00:58.02,0:00:58.52,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}OWN{\c&H00FFFFFF\fscx100\fscy100} INTERNAL CLOCK. ⏰
+Dialogue: 0,0:00:58.52,0:00:59.26,KlapStyle,,0,0,0,,OWN {\c&H0000FFFF\fscx115\fscy115}INTERNAL{\c&H00FFFFFF\fscx100\fscy100} CLOCK. ⏰
+Dialogue: 0,0:00:59.26,0:00:59.54,KlapStyle,,0,0,0,,OWN INTERNAL {\c&H0000FFFF\fscx115\fscy115}CLOCK. ⏰{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:01:00.18,0:01:00.42,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}IT{\c&H00FFFFFF\fscx100\fscy100} WILL TELL
+Dialogue: 0,0:01:00.42,0:01:00.60,KlapStyle,,0,0,0,,IT {\c&H0000FFFF\fscx115\fscy115}WILL{\c&H00FFFFFF\fscx100\fscy100} TELL
+Dialogue: 0,0:01:00.60,0:01:00.86,KlapStyle,,0,0,0,,IT WILL {\c&H0000FFFF\fscx115\fscy115}TELL{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:01:00.86,0:01:01.14,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}YOU{\c&H00FFFFFF\fscx100\fscy100} THE IDEAL
+Dialogue: 0,0:01:01.14,0:01:01.32,KlapStyle,,0,0,0,,YOU {\c&H0000FFFF\fscx115\fscy115}THE{\c&H00FFFFFF\fscx100\fscy100} IDEAL
+Dialogue: 0,0:01:01.32,0:01:01.86,KlapStyle,,0,0,0,,YOU THE {\c&H0000FFFF\fscx115\fscy115}IDEAL{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:01:01.86,0:01:02.40,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}TIMES{\c&H00FFFFFF\fscx100\fscy100} YOU SHOULD
+Dialogue: 0,0:01:02.40,0:01:02.52,KlapStyle,,0,0,0,,TIMES {\c&H0000FFFF\fscx115\fscy115}YOU{\c&H00FFFFFF\fscx100\fscy100} SHOULD
+Dialogue: 0,0:01:02.52,0:01:02.68,KlapStyle,,0,0,0,,TIMES YOU {\c&H0000FFFF\fscx115\fscy115}SHOULD{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:01:02.68,0:01:02.82,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}BE{\c&H00FFFFFF\fscx100\fscy100} SLEEPING AND
+Dialogue: 0,0:01:02.82,0:01:03.18,KlapStyle,,0,0,0,,BE {\c&H0000FFFF\fscx115\fscy115}SLEEPING{\c&H00FFFFFF\fscx100\fscy100} AND
+Dialogue: 0,0:01:03.18,0:01:03.46,KlapStyle,,0,0,0,,BE SLEEPING {\c&H0000FFFF\fscx115\fscy115}AND{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:01:03.46,0:01:03.90,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}ALSO{\c&H00FFFFFF\fscx100\fscy100} YOUR PEAK
+Dialogue: 0,0:01:03.90,0:01:04.20,KlapStyle,,0,0,0,,ALSO {\c&H0000FFFF\fscx115\fscy115}YOUR{\c&H00FFFFFF\fscx100\fscy100} PEAK
+Dialogue: 0,0:01:04.20,0:01:04.48,KlapStyle,,0,0,0,,ALSO YOUR {\c&H0000FFFF\fscx115\fscy115}PEAK{\c&H00FFFFFF\fscx100\fscy100}
+Dialogue: 0,0:01:04.48,0:01:04.98,KlapStyle,,0,0,0,,{\c&H0000FFFF\fscx115\fscy115}PERFORMANCE{\c&H00FFFFFF\fscx100\fscy100}
